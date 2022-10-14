@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 .gradle
+*/venv/
 
 # testing
 /coverage
